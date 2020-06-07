@@ -28,7 +28,7 @@ FwBuildTime
 DeviceType
 PSID
 VSD
-SuppurtedPsids
+SupportedPsids
 ProductVer
 VsdVendorId
 IsGa
